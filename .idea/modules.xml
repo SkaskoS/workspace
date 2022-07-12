@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/New/.idea/New.iml" filepath="$USER_HOME$/DataspellProjects/New/.idea/New.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Visulization/.idea/Visulization.iml" filepath="$USER_HOME$/Desktop/Visulization/.idea/Visulization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Caches/JetBrains/DataSpell2022.1/demo/ds/dataspell_demo/data/.idea/data.iml" filepath="$PROJECT_DIR$/../../../../../Caches/JetBrains/DataSpell2022.1/demo/ds/dataspell_demo/data/.idea/data.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Visulization/here/.idea/here.iml" filepath="$USER_HOME$/Desktop/Visulization/here/.idea/here.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
